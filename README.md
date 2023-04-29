@@ -1,1 +1,5 @@
-# MY-CV-Project
+# My easy CV Project
+- HTML 5
+- CSS 3
+- JavaScript
+- PHP
